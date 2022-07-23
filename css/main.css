@@ -635,10 +635,10 @@ ul.nav > li.active > a{
     opacity: 1;
 }
 .shot_item .screen_thumb figcaption a{    
-    background: #f98f1c;
-    background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
-    background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
-    background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
+    background: #189ca4;
+    background: -moz-linear-gradient(-45deg, #189ca4 0%, #189ca4 100%);
+    background: -webkit-linear-gradient(-45deg, #189ca4 0%,#189ca4 100%);
+    background: linear-gradient(135deg, #189ca4 0%,#189ca4 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
     content: '';
     font-size: 18px;
@@ -693,9 +693,9 @@ ul.nav > li.active > a{
 
 .video_section:before{
     background: #129ca6;
-    background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
-    background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
-    background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
+    background: -moz-linear-gradient(-45deg, #189ca4 0%, #189ca4 100%);
+    background: -webkit-linear-gradient(-45deg, #189ca4 0%,#189ca4 100%);
+    background: linear-gradient(135deg, #189ca4 0%,#189ca4 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
     content: '';
     width: 100%;
@@ -744,7 +744,7 @@ ul.nav > li.active > a{
     border: 1px solid #ddd;
 }
 .mid_table{
-    background: #f98f1c;
+    background: #189ca4;
     background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
     background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
     background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
@@ -831,10 +831,10 @@ ul.nav > li.active > a{
    Download Section
    ========================================================================== */
 .download_section{
-    background: #f98f1c;
-    background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
-    background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
-    background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
+    background: #189ca4;
+    background: -moz-linear-gradient(-45deg, #329ca1 0%, #189ca4 100%);
+    background: -webkit-linear-gradient(-45deg, #329ca1 0%,#189ca4 100%);
+    background: linear-gradient(135deg, #329ca1 0%,#189ca4 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
     padding: 200px 0;
 }
