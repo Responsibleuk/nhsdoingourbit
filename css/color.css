@@ -19,11 +19,11 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
 } */
 .testimonial_items .owl-dots .owl-dot.active{
-	background-color: #129ca6;
+	background-color: #189ca4;
 }
 .post_thumb .blog_title,
 .post_thumb .span {
-	background-color: rgba(247,112,48,0.8);
+	background-color: rgba(18, 166, 139,0.8);
 }
 .footer_menu li a,
 .social_link li a,
@@ -33,5 +33,5 @@
 .download_content li a,
 .list_check li:before,
 .promo_items .promo_item i{
-    color: #129ca6;
+    color: #189ca4;
 }
