@@ -999,9 +999,9 @@ ul.nav > li.active > a{
    ========================================================================== */
 .subscribe_section{
     background: #189ca4;
-    background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
-    background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
-    background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
+    background: -moz-linear-gradient(-45deg, #189ca4 0%, #189ca4 100%);
+    background: -webkit-linear-gradient(-45deg, #189ca4 0%,#189ca4 100%);
+    background: linear-gradient(135deg, #189ca4 0%,#189ca4 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
     content: '';
     padding: 150px 0;
@@ -1034,7 +1034,7 @@ ul.nav > li.active > a{
 }
 .subscribe_form .submit{
     background-color: #fff;
-    color: #f77030;
+    color: #189ca4;
     font-family: "Poppins", sans-serif;
     font-size: 14px;
     line-height: 50px;
@@ -1053,7 +1053,7 @@ ul.nav > li.active > a{
     display: none;
     margin-top: 15px;
     padding: 10px;
-    border: 1px solid #f77030;
+    border: 1px solid #189ca4;
 }
 #subscribe-result.subs-result{
     display: block;
@@ -1072,7 +1072,7 @@ ul.nav > li.active > a{
 .social_link li a{
     display: inline-block;
     font-size: 16px;
-    color: #f77030;
+    color: #189ca4;
     background-color: #fff;
     height: 40px;
     width: 40px;
