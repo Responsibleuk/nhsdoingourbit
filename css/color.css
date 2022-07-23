@@ -11,13 +11,13 @@
 .owl-nav div,
 .feature_list .list_item i,
 .app_btn,
-.hero_section:before{
+/* .hero_section:before{
     background: #f98f1c;
     background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
     background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
     background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
-}
+} */
 .testimonial_items .owl-dots .owl-dot.active{
 	background-color: #f98f1c;
 }

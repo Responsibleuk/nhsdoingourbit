@@ -252,13 +252,12 @@ body.loaded #preloader{
     color: #333;
 }
 .app_btn{
-    background: #129ca6;
-    background: -moz-linear-gradient(-45deg, #129ca6 0%, #129ca6 100%);
-    background: -webkit-linear-gradient(-45deg, #129ca6 0%,#129ca6 100%);
-    background: linear-gradient(135deg, #129ca6c 0%,#129ca6 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
-    content: '';
-    border: 2px solid #129ca6;
+    background: #1bc2e1;
+    background: -moz-linear-gradient(-45deg, #1bc2e1 0%, #1bc2e1 100%);
+    background: -webkit-linear-gradient(-45deg, #1bc2e1 0%,#1bc2e1 100%);
+    background: linear-gradient(135deg, #1bc2e1 0%,#1bc2e1 100%);
+   content: '';
+    border: 2px solid #1bc2e1;
     color: #fff;
     line-height: 45px;
     display: inline-block;
@@ -298,7 +297,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    Header Section
    ========================================================================== */
 .header_section{
-    background-color: transparent;
+    background-color: #1bc2e1;
     width: 100%;
     height: 80px;
     z-index: 999;
@@ -310,12 +309,11 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 
 .navbar-fixed.header_section{
     height: 60px;
-    background: #129ca6;
-    background: -moz-linear-gradient(-45deg, #129ca6 0%, #129ca6 100%);
-    background: -webkit-linear-gradient(-45deg, #129ca6 0%,#129ca6 100%);
-    background: linear-gradient(135deg, #129ca6 0%,#129ca6 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
-    content: '';
+    background: #ffffff;
+    background: -moz-linear-gradient(-45deg, #1bc2e1, #1bc2e1 100%);
+    background: -webkit-linear-gradient(-45deg, #1bc2e1 0%,#1bc2e1 100%);
+    background: linear-gradient(135deg, #1bc2e1 0%,#1bc2e1 100%);
+   content: '';
     padding: 0;
 }
 .navbar-fixed ul.nav > li > a{
@@ -412,10 +410,10 @@ ul.nav > li.active > a{
     z-index: 1;
 }
 .hero_section:before{
-    background: #f98f1c;
-    background: -moz-linear-gradient(-45deg, #129ca6 0%, #129ca6 100%);
-    background: -webkit-linear-gradient(-45deg, #129ca6 0%,#129ca6 100%);
-    background: linear-gradient(135deg, #129ca6 0%,#129ca62 100%);
+    /* background: #006ef5;
+    background: -moz-linear-gradient(-45deg, #006ef5 0%, #006ef5 100%);
+    background: -webkit-linear-gradient(-45deg, #006ef5 0%,#006ef5 100%);
+    background: linear-gradient(135deg, #006ef5 0%,#006ef5 100%); */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
     content: '';
     width: 100%;
