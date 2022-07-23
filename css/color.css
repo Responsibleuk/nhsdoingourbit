@@ -19,7 +19,7 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
 } */
 .testimonial_items .owl-dots .owl-dot.active{
-	background-color: #f98f1c;
+	background-color: #129ca6;
 }
 .post_thumb .blog_title,
 .post_thumb .span {
@@ -33,5 +33,5 @@
 .download_content li a,
 .list_check li:before,
 .promo_items .promo_item i{
-    color: #f98f1c;
+    color: #129ca6;
 }

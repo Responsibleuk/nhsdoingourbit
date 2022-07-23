@@ -308,11 +308,11 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 
 .navbar-fixed.header_section{
-    height: 60px;
+    height: 80px;
     background: #ffffff;
-    background: -moz-linear-gradient(-45deg, #1bc2e1, #1bc2e1 100%);
-    background: -webkit-linear-gradient(-45deg, #1bc2e1 0%,#1bc2e1 100%);
-    background: linear-gradient(135deg, #1bc2e1 0%,#1bc2e1 100%);
+    background: -moz-linear-gradient(-45deg, #129ca6, #129ca6 100%);
+    background: -webkit-linear-gradient(-45deg, #129ca6 0%,#129ca6 100%);
+    background: linear-gradient(135deg, #129ca6 0%,#129ca6 100%);
    content: '';
     padding: 0;
 }
@@ -326,11 +326,12 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 .logo-light,
 .navbar-fixed .logo-light,
-.logo-dark,
+.logo-dark
 .navbar-fixed .logo-dark,
 .navbar-fixed.header_section,
 .header_section{
     transition: all 0.3s ease-in-out;
+    
 }
 .navbar{
     border: medium none;
@@ -342,7 +343,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     position: relative;
 }
 .navbar-header {
-    padding: 17px 0;
+    /* padding: 17px 0; */
 }
 .navbar-header .brand{
     font-size: 25px;
@@ -472,7 +473,7 @@ ul.nav > li.active > a{
 }
 .promo_items .promo_item i{
     font-size: 28px;
-    color: #f77030;
+    color: #129ca6;
     margin-bottom: 10px;
     transition: all 0.2s ease-in-out;
 }
@@ -514,7 +515,7 @@ ul.nav > li.active > a{
     font-family: 'FontAwesome';
     content:"\f00c";
     font-size: 16px;
-    color: #FD7E57;
+    color: #129ca6;
     position: absolute;
     left: 0;
     top: 0;
