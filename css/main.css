@@ -539,6 +539,61 @@ ul.nav > li.active > a{
     margin: 0;
 }
 
+.about_section{}
+.about_wrap{
+    height: 520px;
+}
+.about_inner{}
+.about_tab{}
+.tab_menu{
+    display: flex;
+}
+.tab_menu li{
+    float: left;
+}
+.tab_menu li a{
+    background-color: #f77030;
+    display: block;
+    padding: 0 15px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 50px;
+}
+.tab_menu li a:hover,
+.tab_menu li.active a{
+    background-color: #ff8247;
+    color: #fff;
+}
+.tab-content{}
+.tab-content .tab-pane{
+    padding: 25px 25px 25px 0;
+}
+.tab-content .tab-pane p{
+    margin-bottom: 30px;
+}
+.moc_items{
+    position: relative;
+    width: 100%;
+    height: 520px;
+}
+.moc_items li{
+    position: absolute;
+}
+.moc_items li.moc_front{
+    top: 0;
+    left: calc(50% - 123.5px);
+    z-index: 99;
+}
+.moc_items li.moc_back_1{
+    top: 35px;
+    left: 60px;
+}
+.moc_items li.moc_back_2{
+    top: 35px;
+    right: 60px;
+}
+
 /* ==========================================================================
    Documentation Section
    ========================================================================== */
