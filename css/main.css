@@ -520,7 +520,7 @@ ul.nav > li.active > a{
 }
 
 .hero-text{
-    color: #005EB8;
+    color: #41B6E6;
 }
 
 
@@ -626,8 +626,9 @@ ul.nav > li.active > a{
 }
 .moc_items li.moc_front{
     top: 0;
-    left: calc(50% - 123.5px);
+    left: calc(30% - 123.5px);
     z-index: 99;
+   
 }
 .moc_items li.moc_back_1{
     top: 35px;
