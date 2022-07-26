@@ -251,6 +251,25 @@ body.loaded #preloader{
     background-color: #fff;
     color: #333;
 }
+
+.nav_btn{
+    background-color: #ED8B00;
+    border: 1px solid #ED8B00;
+    color: #fff;
+    line-height: 50px;
+    display: inline-block;
+    padding: 0 25px;
+    border-radius: 30px;
+    margin: 5px; 
+    border-width: 2px;
+    width: 85px;
+    text-align: center;
+
+}
+.nav_btn:hover{
+    background-color: #005EB8;
+    color: #333;
+}
 .app_btn{
     background: #03989e;
     background: -moz-linear-gradient(-45deg, #005EB8 0%, #005EB8 100%);
