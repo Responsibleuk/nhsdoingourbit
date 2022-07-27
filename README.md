@@ -38,7 +38,7 @@ It will also link to the soon to be released app.
   - The user will ..
 
 - __How It Works__
-  The user will be able 
+  - The user will be able 
 
 - __The Footer__
 
@@ -47,21 +47,15 @@ It will also link to the soon to be released app.
 
 ### Features Left to Implement
 
+- Add blog
+- Add CMS using Django
 - Refine styling
-- Add content
-- Create video library
-- Create links at bottom of pages
+- Clean up the code
+- Make site more accesible
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+Incomplete
 
 ### Validator Testing 
 
@@ -69,7 +63,7 @@ Incomplete
 
 ### Unfixed Bugs
 
-
+Incomplete
 
 ## Deployment
 
@@ -89,11 +83,11 @@ The live link can be found here - https://responsibleuk.github.io/nhsdoingourbit
 
 ### Content 
 
-- The content has been created by James Murphy, working with the client and using the original website as inspiration.
-- 
+- The content has been created by James Murphy, working with the client and using the original website as inspiration - https://doingourbit.org.uk/
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site https://unsplash.com/
+- The photos used on the site have been provided by the client or are from This Open Source site https://unsplash.com/ modified using canva.
+
 
 
